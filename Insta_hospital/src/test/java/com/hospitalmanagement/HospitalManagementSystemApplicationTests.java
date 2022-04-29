@@ -1,10 +1,10 @@
-package com.javabykiran.Insta_hospital;
+package com.hospitalmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InstaHospitalApplicationTests {
+class HospitalManagementSystemApplicationTests {
 
 	@Test
 	void contextLoads() {
